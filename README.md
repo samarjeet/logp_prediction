@@ -1,2 +1,2 @@
 # logp_prediction
-#logP prediction model
+This project builds a tensorflow model to predict logP of small drug-like molecules.
